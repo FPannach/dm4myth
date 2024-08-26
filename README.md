@@ -1,5 +1,4 @@
-# dm4myth
-First Workshop on Digital Methods for Mythological Research
+# dm4myth: First Workshop on Digital Methods for Mythological Research
 
 Venue: Computational Humanities Research Conference  - CHR2024, (Aarhus, Denmark) 
 
